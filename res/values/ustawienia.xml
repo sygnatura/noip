@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="set_host">Host</string>
+    <string name="set_login">Login</string>
+    <string name="set_pass">Password</string>
+    <string name="set_notify">Notifications</string>
+    <string name="set_wifi">WIFI</string>
+    <string name="set_wifi_desc">Update IP address also when connected to Wi-Fi.</string>
+    <string name="set_notify_desc">Notify the successful updating the address.</string>
+    <string-array name="set_server">
+        <item >whatismyipaddress.com</item>
+        <item >alternative</item>
+    </string-array>
+    <string-array name="set_server_values">
+        <item >1</item>
+        <item >2</item>
+    </string-array>
+    <string name="set_server_desc">Server thath IP address updates are sent to.</string>
+    <string name="set_server_title">Update domain</string>
+    
+</resources>

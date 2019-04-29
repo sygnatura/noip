@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="set_host">Host</string>
+    <string name="set_login">Login</string>
+    <string name="set_pass">Hasło</string>
+    <string name="set_notify">Powiadomienia</string>
+    <string name="set_wifi">WIFI</string>
+    <string name="set_wifi_desc">Aktualizuj adres IP również w przypadku połaczenia przez WIFI</string>
+    <string name="set_notify_desc">Informuj o pomyślnym zaktualizowaniu adresu.</string>
+    <string-array name="set_server">
+        <item >whatismyipaddress.com</item>
+        <item >alternatywny</item>
+    </string-array>
+    <string-array name="set_server_values">
+        <item >1</item>
+        <item >2</item>
+    </string-array>
+    <string name="set_server_desc">Serwer identyfikacji adresu IP</string>
+    <string name="set_server_title">Serwer IP</string>
+    
+</resources>

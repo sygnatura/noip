@@ -1,0 +1,19 @@
+pl.noip.BuildConfig
+pl.noip.Polaczenie:
+    protected org.apache.http.client.methods.HttpPost postRequest
+    102:103:public void ustawKodowanie(java.lang.String)
+    106:106:public java.lang.String getMethod()
+    114:116:public void addParam(java.lang.String,java.lang.String)
+    125:126:public void czyscNaglowki()
+    156:161:public java.lang.String getResult(java.lang.String)
+pl.noip.R
+pl.noip.R$array
+pl.noip.R$attr
+pl.noip.R$dimen
+pl.noip.R$drawable
+pl.noip.R$id
+pl.noip.R$layout
+pl.noip.R$menu
+pl.noip.R$string
+pl.noip.R$style
+pl.noip.R$xml

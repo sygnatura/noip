@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="good">DNS hostname update successful.</string>
+    <string name="nochg">IP address is current, no update performed.</string>
+    <string name="nohost">Hostname supplied does not exist under specified account.</string>
+    <string name="badauth">Invalid username password combination.</string>
+    <string name="badagent">Client disabled. Client should exit and not perform any more updates without user intervention. </string>
+    <string name="abuse">Username is blocked due to abuse.</string>
+    <string name="err911">A fatal error on our side such as a database outage. Retry the update no sooner 30 minutes.</string>
+    
+    <string name="notfqdn">The hostname specified is not a fully-qualified domain name.</string>
+    <string name="dnserr">DNS error encountered.</string>
+    <string name="timeout">Timeout - check your Internet connection</string>
+</resources>

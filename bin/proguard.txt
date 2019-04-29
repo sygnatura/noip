@@ -1,0 +1,27 @@
+# view AndroidManifest.xml #generated:44
+-keep class com.startapp.android.publish.FullScreenActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:40
+-keep class com.startapp.android.publish.OverlayActivity { <init>(...); }
+
+# view res/layout/activity_main.xml #generated:8
+-keep class com.startapp.android.publish.banner.Banner { <init>(...); }
+
+# view AndroidManifest.xml #generated:37
+-keep class com.startapp.android.publish.list3d.List3DActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:31
+-keep class pl.noip.BootCompletedReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:21
+-keep class pl.noip.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:30
+-keep class pl.noip.Updater { <init>(...); }
+
+# view AndroidManifest.xml #generated:30
+-keep class pl.noip.Ustawienia { <init>(...); }
+
+# onClick res/layout/activity_main.xml #generated:14
+-keepclassmembers class * { *** procesSwitch(...); }
+

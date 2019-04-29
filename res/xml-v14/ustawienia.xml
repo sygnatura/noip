@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+        <EditTextPreference android:title="@string/set_host" android:key="noip_host" android:inputType="textUri" android:hint="@string/hint_host"/>
+    <EditTextPreference android:title="@string/set_login" android:key="noip_login"/>
+    <EditTextPreference android:title="@string/set_pass" android:key="noip_haslo" android:inputType="textPassword"/>
+    <SwitchPreference android:title="@string/set_notify" android:key="noip_notify" android:defaultValue="true" android:summary="@string/set_notify_desc"/>
+    <SwitchPreference android:defaultValue="true" android:key="noip_wifi" android:title="@string/set_wifi" android:summary="@string/set_wifi_desc"/>
+    <ListPreference android:entries="@array/set_server" android:entryValues="@array/set_server_values" android:key="pref_server" android:title="@string/set_server_title" android:defaultValue="1" android:summary="@string/set_server_desc"/>
+    
+
+</PreferenceScreen>

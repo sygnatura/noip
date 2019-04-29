@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">No-IP client</string>
+    <string name="action_settings">Settings</string><string name="action_odswiez">Odśwież</string>
+    <string name="service_start">Start</string>
+    <string name="service_stop">Stop</string>
+    <string name="service_started">No-IP service started</string>
+    <string name="service_stopped">No-IP service stopped</string>
+    <string name="toast_host">Please complete the Host field in the program settings</string>
+    <string name="toast_login">Please complete the Login field in the program settings</string>
+    <string name="toast_haslo">Please complete the Password field in the program settings</string>
+    <string name="ip_info">Public IP:</string>
+    <string name="ip_time">Last update:</string>
+    <string name="brak_danych">no data</string>
+    <string name="last_response">Server response:</string>
+    <string name="no_internet">Your device is not currently connected to any network. This software requires an active Internet connection.</string>
+    <string name="hint_host">example: mydomain.no-ip.org</string>
+    <string name="toast_host_wrong">is not a valid host name</string>
+    
+
+</resources>

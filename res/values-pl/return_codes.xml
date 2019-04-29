@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="good">Nowy adres IP został pomyślnie zaktualizowany.</string>
+    <string name="nochg">Adres IP nie uległ zmianie.</string>
+    <string name="nohost">Podana nazwa hosta nie istnieje dla podanego loginu.</string>
+    <string name="badauth">Nieprawidłowy login lub hasło.</string>
+    <string name="badagent">Klient zablokowany. Klient nie może dokonać więcej aktualizacji bez interwencji użytkownika.</string>
+    <string name="abuse">Podany host został zablokowany ze względu na nadużycia.</string>
+    <string name="err911">Prace konserwacyjne serwera NO-IP.com</string>
+    
+    <string name="notfqdn">Podana nazwa hosta nie jest pełną kwalifikowaną nazwą domeny.</string>
+    <string name="dnserr">Problem z serwerem DNS.</string>
+    <string name="timeout">Upłynął limit czasu rządania. Srawdź połączenie.</string>
+</resources>

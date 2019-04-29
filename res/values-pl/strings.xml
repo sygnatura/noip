@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Klilent No-IP</string>
+    <string name="action_settings">Ustawienia</string><string name="action_odswiez">Odśwież</string>
+    <string name="service_start">Start</string>
+    <string name="service_stop">Stop</string>
+    <string name="service_started">Uruchomienie usługi No-IP</string>
+    <string name="service_stopped">Zatrzymanie usługi No-IP</string>
+    <string name="toast_host">Proszę uzupełnić polę host w ustawieniach programu</string>
+    <string name="toast_login">Proszę uzupełnić polę login w ustawieniach programu</string>
+    <string name="toast_haslo">Proszę uzupełnić polę hasło w ustawieniach programu</string>
+    <string name="ip_info">Publiczny adres IP:</string>
+    <string name="ip_time">Czas:</string>
+    <string name="brak_danych">brak danych</string>
+    <string name="last_response">Odpowiedź serwera:</string>
+    <string name="no_internet">Twoje urządzenie nie jest aktualnie połączone z żadną siecią. Program wymaga aktywnego połączenia z Internetem.</string>
+    <string name="hint_host">np. mydomain.no-ip.org</string>
+    <string name="toast_host_wrong">nie jest prawidłową nazwą hosta</string>
+    
+
+</resources>
